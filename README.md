@@ -1,6 +1,6 @@
 ## Key findings and recommendations from car-crash dataset analysis (Team Project) ##
 
-Analysis was done bsed on the real crash dataset recorded in Australia in 2021. Below are the results which we found from the analyses. Results are explained in non-technical way to make the viewer understand things in simpler way. To know more about the process and how we got the results please check out our full ** report car crashes ** uploaded in the repo. 
+Analysis was done bsed on the real crash dataset recorded in Australia in 2021. Below are the results which we found from the analyses. Results are explained in non-technical way to make the viewer understand things in simpler way. To know more about the process and how we got the results please check out our full **report car crashes** uploaded in the repo. 
 
 1) Are older drivers more at risk of fatal crashes? Are younger pedestrians more vulnerable?
 
